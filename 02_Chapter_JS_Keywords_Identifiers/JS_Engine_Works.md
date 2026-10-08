@@ -1,3 +1,6 @@
+
+![alt text](<Inside the JavaScript Engine Infographic.png>)
+
 How JavaScript Engine Works
 
 A JavaScript engine is a program that reads, parses, compiles, and executes JavaScript code.
@@ -111,7 +114,7 @@ JavaScript Source Code
           ↓
    Deoptimization
    (if required)
-   
+
 One-line interview definition
 
 A JavaScript engine tokenizes and parses source code into an AST, generates executable intermediate code such as bytecode, executes it through an interpreter, and uses JIT compilation to optimize frequently executed code into machine code for better performance.
