@@ -10,7 +10,8 @@ A hands-on learning workspace for JavaScript fundamentals and QA automation conc
 | [`01_Chapter_JS_Basics/`](./01_Chapter_JS_Basics/) | First JavaScript programs and basic math |
 | [`02_Chapter_JS_Keywords_Identifiers/`](./02_Chapter_JS_Keywords_Identifiers/) | JavaScript keywords, identifiers, comments, and how a JavaScript engine works |
 | [`03_Chatper_JS_Literals/`](./03_Chatper_JS_Literals/) | Literals, numbers, `null`, `undefined`, and special numeric values |
-| [`04_Chapter_Operators/`](./04_Chapter_Operators/) | Arithmetic, assignment, comparison, and logical operators |
+| [`04_Chapter_Operators/`](./04_Chapter_Operators/) | Arithmetic, assignment, comparison, logical, ternary, and `typeof` operators |
+| [`05_Chapter_Increment_Decremant.js/`](./05_Chapter_Increment_Decremant.js/) | Prefix and postfix increment/decrement operators, with practice questions |
 
 ## Getting started
 
