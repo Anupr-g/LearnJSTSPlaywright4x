@@ -12,6 +12,13 @@ A hands-on learning workspace for JavaScript fundamentals and QA automation conc
 | [`03_Chatper_JS_Literals/`](./03_Chatper_JS_Literals/) | Literals, numbers, `null`, `undefined`, and special numeric values |
 | [`04_Chapter_Operators/`](./04_Chapter_Operators/) | Arithmetic, assignment, comparison, logical, ternary, and `typeof` operators |
 | [`05_Chapter_Increment_Decremant.js/`](./05_Chapter_Increment_Decremant.js/) | Prefix and postfix increment/decrement operators, with practice questions |
+| [`06_Chapter_If_Else_Statement/`](./06_Chapter_If_Else_Statement/) | `if`, `if/else`, nested conditions, and multiple branches |
+| [`07_chapter_switch/`](./07_chapter_switch/) | `switch` statements, grouped cases, and practice questions |
+| [`08_chapter_UserInput/`](./08_chapter_UserInput/) | Browser and Node.js input, synchronous prompts, and reading files |
+| [`09_chapter_Loops/`](./09_chapter_Loops/) | Loop basics, `for` loops, and practice questions |
+| [`10_chapter_Loops_WHILE/`](./10_chapter_Loops_WHILE/) | `while` loops and `break` |
+| [`11_chapter_Loops_DoWhile/`](./11_chapter_Loops_DoWhile/) | `do...while` loops, nested loops, and practice questions |
+| [`12_chapters_Arrays/`](./12_chapters_Arrays/) | Creating, accessing, modifying, searching, iterating, and transforming arrays |
 
 ## Getting started
 

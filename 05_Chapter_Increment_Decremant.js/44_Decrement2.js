@@ -4,3 +4,5 @@ console.log(b);
 console.log(a);
 
 
+//let name = "John";
+
