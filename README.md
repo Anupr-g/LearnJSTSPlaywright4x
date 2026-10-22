@@ -18,7 +18,17 @@ A hands-on learning workspace for JavaScript fundamentals and QA automation conc
 | [`09_chapter_Loops/`](./09_chapter_Loops/) | Loop basics, `for` loops, and practice questions |
 | [`10_chapter_Loops_WHILE/`](./10_chapter_Loops_WHILE/) | `while` loops and `break` |
 | [`11_chapter_Loops_DoWhile/`](./11_chapter_Loops_DoWhile/) | `do...while` loops, nested loops, and practice questions |
-| [`12_chapters_Arrays/`](./12_chapters_Arrays/) | Creating, accessing, modifying, searching, iterating, and transforming arrays |
+| [`12_chapters_Arrays/`](./12_chapters_Arrays/) | Creating, accessing, modifying, searching, iterating, transforming, sorting, slicing, and copying arrays |
+
+### Array chapter examples
+
+Continue the array lessons with examples and explanations for:
+
+- [Mapping and filtering arrays](./12_chapters_Arrays/89_Arrays_Transform_Map_Filter.js)
+- [Sorting strings](./12_chapters_Arrays/90_Array_Sorting.js), [understanding lexicographic order](./12_chapters_Arrays/91_Lexicographic_Explain.md), and [sorting numbers](./12_chapters_Arrays/92_Array_Normal_Sorting.js)
+- [Slicing arrays](./12_chapters_Arrays/93_Array_Slicing.js) and [combining arrays](./12_chapters_Arrays/94_Array_Concat.js)
+- [Checking array values](./12_chapters_Arrays/95_ARRAY_Check.js) and [transforming arrays](./12_chapters_Arrays/96_Array_Transform.js)
+- [Copying arrays](./12_chapters_Arrays/97_Array_Copy.js), [destructuring](./12_chapters_Arrays/98_Array_Destructing.js), and [swapping values](./12_chapters_Arrays/100_Swapping.js)
 
 ## Getting started
 
